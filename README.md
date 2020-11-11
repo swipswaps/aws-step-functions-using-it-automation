@@ -2,7 +2,7 @@
 
 ## Overview
 
-"Everything fails all the time" - Werner Wogels
+"Everything fails all the time" - Werner Vogels
 
 Everything fails all the time and our systems should be ready to respond to such kind of events automatically. To automate the entire incident management you need a workflow that gets triggered when an incident happens. Let's take a simple usecase.
 
